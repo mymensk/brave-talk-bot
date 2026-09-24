@@ -3,8 +3,8 @@ import time
 
 import httpx
 
-from brave_talk_bot.llm import GigaChatProvider, Message
-from brave_talk_bot.llm.gigachat import API_URL, OAUTH_URL
+from intonaciya.llm import GigaChatProvider, Message
+from intonaciya.llm.gigachat import API_URL, OAUTH_URL
 
 
 class FakeGigaChat:

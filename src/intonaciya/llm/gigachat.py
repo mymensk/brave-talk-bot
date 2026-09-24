@@ -5,7 +5,7 @@ from dataclasses import asdict
 
 import httpx
 
-from brave_talk_bot.llm.base import Completion, Message
+from intonaciya.llm.base import Completion, Message
 
 OAUTH_URL = "https://ngw.devices.sberbank.ru:9443/api/v2/oauth"
 API_URL = "https://gigachat.devices.sberbank.ru/api/v1"

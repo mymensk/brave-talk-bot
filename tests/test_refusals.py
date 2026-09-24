@@ -1,6 +1,6 @@
 import pytest
 
-from brave_talk_bot.llm import Completion, RefusalKind, classify_refusal
+from intonaciya.llm import Completion, RefusalKind, classify_refusal
 
 
 def _completion(text: str, finish_reason: str = "stop") -> Completion:

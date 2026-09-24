@@ -1,6 +1,6 @@
 from enum import StrEnum
 
-from brave_talk_bot.llm.base import Completion
+from intonaciya.llm.base import Completion
 
 
 class RefusalKind(StrEnum):
