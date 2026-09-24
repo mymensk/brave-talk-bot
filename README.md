@@ -1,6 +1,8 @@
-# brave-talk-bot
+# Интонация
 
-ИИ-ассистент для сложных разговоров в переписке. Telegram-бот на GigaChat. Участник акселератора Sber500 x DISRUPT.
+**Слышать, что пишут. Звучать, как ты.**
+
+ИИ-ассистент для сложных разговоров в переписке. Telegram-бот [@intonaciya_bot](https://t.me/intonaciya_bot) на GigaChat. Участник акселератора Sber500 x DISRUPT.
 
 ## Зачем
 

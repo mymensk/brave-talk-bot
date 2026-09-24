@@ -18,8 +18,8 @@ from string import Template
 
 import httpx
 
-from brave_talk_bot.config import Settings
-from brave_talk_bot.llm import GigaChatProvider, Message, RefusalKind, classify_refusal
+from intonaciya.config import Settings
+from intonaciya.llm import GigaChatProvider, Message, RefusalKind, classify_refusal
 
 ROOT = Path(__file__).resolve().parent.parent
 PROMPTS_DIR = ROOT / "prompts"
